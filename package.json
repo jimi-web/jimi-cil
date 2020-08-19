@@ -1,0 +1,53 @@
+{
+  "_from": "jimi-cil",
+  "_id": "jimi-cil@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ES8h9hl/2DJ1kDm7LGUhrwwiwueSv8tmM1f/8Vcucqz8Uq4ZXf+rlvzt6S44b99H8PUjlF9L1q80vdcdua4pbQ==",
+  "_location": "/jimi-cil",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jimi-cil",
+    "name": "jimi-cil",
+    "escapedName": "jimi-cil",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jimi-cil/-/jimi-cil-1.0.8.tgz",
+  "_shasum": "8e822a7b3ee88f4551df7de69235b7d9b7808ff9",
+  "_spec": "jimi-cil",
+  "_where": "C:\\Users\\admin\\Desktop",
+  "author": "",
+  "bin": {
+    "jimi": "bin/index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.5.3",
+    "inquirer": "^7.0.0",
+    "log-symbols": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "log-symbols": "^3.0.0"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "jimi-cil",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
